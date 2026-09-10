@@ -41,3 +41,4 @@ Extra Practice
 
 Trapping Rain Water – LeetCode
 Largest Rectangle in Histogram
+valid-parentheses
