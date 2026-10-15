@@ -1,0 +1,10 @@
+//Hello world program 
+
+#include <iostream>
+
+using namespace std;
+
+int main() {
+    cout << " HELLO IIPS" << endl;
+    return 0;
+}
