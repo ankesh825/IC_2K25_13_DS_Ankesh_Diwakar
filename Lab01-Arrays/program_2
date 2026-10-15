@@ -1,0 +1,12 @@
+//ARRAY SINGLE ELEMENT PRINT
+
+#include <iostream>
+using namespace std;
+
+int main() {
+    int arr[3] = {54, 55, 46};
+
+    cout << arr[1];
+
+    return 0;
+}
