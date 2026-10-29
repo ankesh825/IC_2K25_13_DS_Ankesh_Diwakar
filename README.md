@@ -143,6 +143,7 @@ A linked list is a linear data structure in which elements are stored in nodes c
 9. Deletion Operations
 10. Searching in Linked List
 11. Reversing a Linked List
+12. Deletion Operations in a Singly Linked List using C++
 
 **Learning Outcomes:**
 
